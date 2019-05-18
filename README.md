@@ -1,4 +1,7 @@
 # vh-hacker-guide
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/VandyHacks/vh-guide-pipeline.svg)](https://greenkeeper.io/)
+
 VandyHacks V Hacker Guide
 
 Markdown --> HTML rendering pipeline via Webpack!
