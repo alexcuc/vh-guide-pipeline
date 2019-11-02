@@ -135,10 +135,11 @@ The complete list of prizes is coming soon. Stay tuned for some amazing surprise
 
 -   **The "We Couldn't Think of Design Name" Prize** - Tech case organizer; come to the typing competition at noon on Saturday, November 2nd for a chance at winning this prize!
 
-
 ---
 
 -   **Major League Hacking Prizes** - [hack.mlh.io/prizes](https://hack.mlh.io/prizes/)
+
+-   **Sponsored Prizes** - [Devpost](https://vandyhacksvi.devpost.com/)
 
 # <a name="submitting-your-project"></a>Submitting Your Project
 
