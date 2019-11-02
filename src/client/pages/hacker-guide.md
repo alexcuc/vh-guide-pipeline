@@ -25,7 +25,7 @@ _NOTE: Daylight Savings Time ends on Sunday, Nov. 3, so you will need to set you
 -   [Sleeping, Eating, & Showering](#sleeping-eating-showering)
 -   [Opening Ceremony](#opening-ceremony)
 -   [Closing Ceremony](#closing-ceremony)
--   [Prizes](#prizes)
+-   [s](#prizes)
 -   [Submitting Your Project](#submitting-your-project)
 -   [Presenting Your Project](#presenting-your-project)
 -   [Buses](#buses)
@@ -117,11 +117,42 @@ Closing ceremony will be held in the [Student Life Center](https://goo.gl/maps/U
 
 # <a name="prizes"></a>Prizes
 
-The complete list of prizes will be announced at the Opening Ceremony. Stay tuned for some amazing surprises!
+**Masterpiece prize** - *awarded to the best all around project*
+4K OSMO Pocket
+
+**Runnerup Masterpiece prize** - *awarded to the second best all around project*
+Nintendo Switch Lite
+
+**A Code of Art** - *awarded to the most stylistically inspiring project*
+One by Wacom Graphic Drawing Tablet
+
+**Workshop Warrior** - *awarded to the best hack utilizing a tool or tech taught in a workshop. Winners must have attended the corresponding workshop*
+KOPACK Lightweight Laptop Backpack
+
+**Code For Good** - *awarded to the best hack dedicated to social good*
+These hackers will be able to pick a charity of their choice to donate $100 to
+
+**Zero to Hero** - *awarded to the best hack from a team with minimal to no prior experience*
+Polaroid Camera (Fujifilm Instax Mini 9 Instant Camera)
+
+**Scavenger Hunt Winners**
+These winners will receive *artful* prizes for their zeal and dedication to completing the scavenger hunt!
+
+**Typing Competition Winner**
+Come to the typing competition at noon on Saturday, November 2nd for a chance at winning this prize!
+
+**The "We Couldn't Think of a Design Name" Prize**
+A Mini photo printer awarded to the best design that incorporates the VH logo
 
 ---
 
 -   **Major League Hacking Prizes** - [hack.mlh.io/prizes](https://hack.mlh.io/prizes/)
+
+---
+
+Check back soon for Sponsorship Prizes
+
+
 
 # <a name="submitting-your-project"></a>Submitting Your Project
 
